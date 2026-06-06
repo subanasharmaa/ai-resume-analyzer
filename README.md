@@ -58,11 +58,22 @@ For the AI Coach, full conversation history is passed on every turn for multi-tu
 **Features**
 
 📊 Resume Checker — full AI evaluation with overall score out of 100, strengths, weaknesses, skills found, missing skills, and suggested career steps.
+
+
 🏆 Resume Scorer — scores your resume across 6 categories (Clarity, Format, Skills, Experience, Impact, ATS) with visual progress bars and top 3 quick wins.
+
+
 ✉️ Cover Letter Generator — generates a complete, ready-to-send cover letter tailored to a specific job title, company, and job description.
+
+
 🤖 AI Career Coach — a multi-turn chat interface where the AI has read your resume and gives specific, practical advice based on your real background.
+
 📥 Download reports — save your analysis or cover letter as a .txt file.
+
+
 🔒 Persistent upload — resume stays loaded across button clicks and reruns without re-uploading.
+
+
 🎨 Clean minimal UI — blue and white Streamlit interface, no clutter.
 
 ## Known Limitations
@@ -141,22 +152,24 @@ Then open your browser at http://localhost:8501
 
 **Screenshots**
 |       Page              Screenshot    |
-|-------------------|- -----------------|
-| **Home**            <img width="1713" height="850" alt="image" src="https://github.com/user-attachments/assets/fdb57526-                       46fb-4573-82f2-da1516233f15" />
-                      <img width="1108" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325-                        1a1e-4299-8e91-b7f8b9dfa474" />
-|-------------------|- -----------------|
+
+
+| **Home**            <img width="1713" height="850" alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" />
+                      <img width="1108" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
+
+
 | **Resumechecker**     <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
  
-|-------------------|- -----------------|
+
 | **Resumescorer**      <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />
     
-|-------------------|- -----------------|
+
 | **Coverlettergenerator** <img width="1735" height="840" alt="image" src="https://github.com/user-attachments/assets/c4d064bf-b56f-4da5-a4d4-c109327621f6" />
 
-|-------------------|- -----------------|
+
  **AIcoach**            <img width="1732" height="782" alt="image" src="https://github.com/user-attachments/assets/885a8467-b637-422e-9ae7-a7e238828487" />
 
- |-------------------|- -----------------|
+
 
 **Roadmap**
 
