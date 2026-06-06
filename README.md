@@ -151,25 +151,21 @@ Then open your browser at http://localhost:8501
 --Download your result if needed
 
 **Screenshots**
-|       Page              Screenshot    |
+|       Page       |     Screenshot    |
+|:-----------------|:------------------|
 
+| **Home** | <img width="48%" height=".." alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" /> <img width="48%" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
 
-| **Home**   <img width="1713" height="850" alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" />
-
-
-             <img width="1108" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
-
-
-| **Resumechecker**  <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
+| **Resumechecker** |  <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
  
 
-| **Resumescorer**      <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />
+| **Resumescorer**    |  <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />
     
 
-| **Coverlettergenerator** <img width="1735" height="840" alt="image" src="https://github.com/user-attachments/assets/c4d064bf-b56f-4da5-a4d4-c109327621f6" />
+| **Coverlettergenerator**| <img width="1735" height="840" alt="image" src="https://github.com/user-attachments/assets/c4d064bf-b56f-4da5-a4d4-c109327621f6" />
 
 
- **AIcoach**            <img width="1732" height="782" alt="image" src="https://github.com/user-attachments/assets/885a8467-b637-422e-9ae7-a7e238828487" />
+ **AIcoach** |  <img width="1732" height="782" alt="image" src="https://github.com/user-attachments/assets/885a8467-b637-422e-9ae7-a7e238828487" />
 
 
 
