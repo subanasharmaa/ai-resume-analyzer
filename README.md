@@ -153,21 +153,11 @@ Then open your browser at http://localhost:8501
 **Screenshots**
 |       Page       |     Screenshot    |
 |:-----------------|:------------------|
-
-| **Home** | <img width="48%" height=".." alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" /> <img width="48%" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
-
-| **Resumechecker** |  <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
- 
-
-| **Resumescorer**    |  <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />
-    
-
-| **Coverlettergenerator**| <img width="1735" height="840" alt="image" src="https://github.com/user-attachments/assets/c4d064bf-b56f-4da5-a4d4-c109327621f6" />
-
-
- **AIcoach** |  <img width="1732" height="782" alt="image" src="https://github.com/user-attachments/assets/885a8467-b637-422e-9ae7-a7e238828487" />
-
-
+| **Home** | <img width="1713" height="850" alt="Screenshot 2026-06-06 085207" src="https://github.com/user-attachments/assets/89534fc9-e277-49fa-bfc7-12917ad9b030" /> <img width="1108" height="458" alt="Screenshot 2026-06-06 085257" src="https://github.com/user-attachments/assets/bc664822-2b13-4f2b-a56d-ae6dc83e73a2" />|
+| **Resumechecker**| <img width="1740" height="570" alt="Screenshot 2026-06-06 085939" src="https://github.com/user-attachments/assets/1f37e58d-5292-4364-a74b-fea0a48b7f56" />|
+| **Resumescorer**    |  <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />|
+| **Coverlettergenerator**| <img width="1735" height="840" alt="image" src="https://github.com/user-attachments/assets/c4d064bf-b56f-4da5-a4d4-c109327621f6" />|
+|**AIcoach** |  <img width="1732" height="782" alt="image" src="https://github.com/user-attachments/assets/885a8467-b637-422e-9ae7-a7e238828487" />|
 
 **Roadmap**
 
