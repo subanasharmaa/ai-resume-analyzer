@@ -154,11 +154,13 @@ Then open your browser at http://localhost:8501
 |       Page              Screenshot    |
 
 
-| **Home**            <img width="1713" height="850" alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" />
-                      <img width="1108" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
+| **Home**   <img width="1713" height="850" alt="image" src="https://github.com/user-attachments/assets/fdb57526-  46fb-4573-82f2-da1516233f15" />
 
 
-| **Resumechecker**     <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
+             <img width="1108" height="458" alt="image" src="https://github.com/user-attachments/assets/64fd5325- 1a1e-4299-8e91-b7f8b9dfa474" />
+
+
+| **Resumechecker**  <img width="1740" height="570" alt="image" src="https://github.com/user-          attachments/assets/1e8e133e-f3c6-4164-989a-0c08d4ad652e" />
  
 
 | **Resumescorer**      <img width="1733" height="702" alt="image" src="https://github.com/user-attachments/assets/3fcbc00e-6f0e-429b-86fd-4135c18ed461" />
