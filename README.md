@@ -17,6 +17,7 @@
 
 - [About the Project](#-about-the-project)
 - [Features](#-features)
+- [Limitations](#-Limitations)
 - [How It Works](#-how-it-works)
 - [App Flow Architecture](#-app-flow-architecture)
 - [Tech Stack](#-tech-stack)
