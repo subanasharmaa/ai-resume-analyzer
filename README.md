@@ -162,20 +162,32 @@ Then open your browser at http://localhost:8501
 **Roadmap**
 
  -Add support for DOCX resume uploads
+ 
  -Add job description matching score
+ 
  -LinkedIn profile analyzer
+ 
  -Interview question generator based on resume
+ 
  -Deploy to Streamlit Cloud
+ 
  -Support multiple resume versions for comparison
+ 
  -Add resume rewriting suggestions inline
+ 
  -Export full analysis as a PDF report
 
  **Contributing**
 Contributions are welcome. Here is how to get started:
+
 Fork the repository
+
 Create a new branch (git checkout -b feature/your-feature-name)
+
 Commit your changes (git commit -m 'Add some feature')
+
 Push to the branch (git push origin feature/your-feature-name)
+
 Open a Pull Request
 
 **License**
